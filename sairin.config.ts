@@ -4,19 +4,19 @@ import BlogTheme from "@sairinjs/sairin-theme-minimal";
 
 export default {
   siteConfig: {
-    title: 'Sairin'
+    title: "Sairin",
   },
   theme: BlogTheme,
   themeConfig: {
-    title: `Sairin`,
+    title: `Exposir`,
     links: [
       {
         title: "GitHub",
-        url: "https://github.com/djyde/sairin",
+        url: "https://github.com/exposir",
       },
       {
         title: "Twitter",
-        url: "https://twitter.com/randyloop",
+        url: "https://twitter.com/ExposirM",
       },
     ],
   },
